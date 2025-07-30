@@ -9,7 +9,7 @@ This repo will be regularly updated as new videos come in from Seattle Data Guy.
 
 <img width="100%" alt="sdg.png" src="img/sdg.png">
 
-### Value of added:
+### Values added:
 
 The notion template can be used to:
 
