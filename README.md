@@ -40,4 +40,4 @@ The notion template can be used to:
 
 ### Result
 
-- the code will pull data from Youtube API & exporeted into `seattle_data_guy_checklist2.xlsx` xlsx (Excel) file.
+- The code will pull data from Youtube API & exporet it into `seattle_data_guy_checklist2.xlsx` xlsx (Excel) file.
